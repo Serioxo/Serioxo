@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serioxo
 - 👀 I’m interested in: App Development, Game Development
-- 🌱 I’m currently learning: C++, C# and JavaScript
+- 🌱 I’m currently learning: C#, JavaScript and Python
 - 📫 How to reach me: Discord: Serio#3738, Email: Jakubmigac16@gmail.com
 
 <!---
