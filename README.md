@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Serio or also known as Jakub
-- I’m interested in: Software Development and Game Development
+- I’m interested in: Software Development and Application Engineering
 - Languages i’m currently learning: C# and JavaScript
-- Web Frameworks i'm currently learning: Astro
-- 📫 How to reach me: Discord: Serio#3738, Email: Jakubmigac16@gmail.com
+- 📫 How to reach me: Discord: .Serio , Email: Jakubmigac16@gmail.com
