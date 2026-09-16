@@ -90,15 +90,6 @@ Building the tooling and infrastructure behind my own IT services company, inclu
 - Customer platforms
 
 ---
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serioxo&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serioxo&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 📫 Find me
 
 🌐 **Serio Technical Solutions**  
